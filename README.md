@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ytmx7kdyunxtwyac?svg=true)](https://ci.appveyor.com/project/drevnik/aqa-selenide)
 
 
 Заказ доставки карты
